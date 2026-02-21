@@ -1,0 +1,8 @@
+print("khinkali")
+print("dzagli")
+print(10)
+print("andria")
+print("tamuna")
+print("beso")
+print("keso")
+print("bela")
