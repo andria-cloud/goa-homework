@@ -1,0 +1,1 @@
+# monacemta tipebis gardaqmna მაგალითად string რომ გადავაქციოთ integerad და ზუსტი ოასუხი გამოვიტანოთ
